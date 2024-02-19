@@ -223,6 +223,8 @@ column-gap: 140px;
   column-gap: 40px;
   background-color: #0082f4;
   color: #fff;
+  height: 120px;
+  align-items: center;
 
 }
 .footer button{
